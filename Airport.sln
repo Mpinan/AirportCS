@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirportChallenge", "Airport\AirportChallenge.csproj", "{DFD9D69C-34E9-46F2-9093-7B96AFC7A372}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirportChallengeTests", "AirportTest\AirportChallengeTests.csproj", "{EF2695E6-E85C-4E3C-9149-EBA71AE50536}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFD9D69C-34E9-46F2-9093-7B96AFC7A372}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFD9D69C-34E9-46F2-9093-7B96AFC7A372}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFD9D69C-34E9-46F2-9093-7B96AFC7A372}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFD9D69C-34E9-46F2-9093-7B96AFC7A372}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF2695E6-E85C-4E3C-9149-EBA71AE50536}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF2695E6-E85C-4E3C-9149-EBA71AE50536}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF2695E6-E85C-4E3C-9149-EBA71AE50536}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF2695E6-E85C-4E3C-9149-EBA71AE50536}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFAFA095-2E63-471C-9EF6-90BD6C372927}
+	EndGlobalSection
+EndGlobal

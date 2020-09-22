@@ -1,0 +1,13 @@
+C:\Users\Mario\Desktop\projects\Airport\Airport\bin\Debug\netcoreapp3.1\AirportChallenge.exe
+C:\Users\Mario\Desktop\projects\Airport\Airport\bin\Debug\netcoreapp3.1\AirportChallenge.deps.json
+C:\Users\Mario\Desktop\projects\Airport\Airport\bin\Debug\netcoreapp3.1\AirportChallenge.runtimeconfig.json
+C:\Users\Mario\Desktop\projects\Airport\Airport\bin\Debug\netcoreapp3.1\AirportChallenge.runtimeconfig.dev.json
+C:\Users\Mario\Desktop\projects\Airport\Airport\bin\Debug\netcoreapp3.1\AirportChallenge.dll
+C:\Users\Mario\Desktop\projects\Airport\Airport\bin\Debug\netcoreapp3.1\AirportChallenge.pdb
+C:\Users\Mario\Desktop\projects\Airport\Airport\obj\Debug\netcoreapp3.1\AirportChallenge.csprojAssemblyReference.cache
+C:\Users\Mario\Desktop\projects\Airport\Airport\obj\Debug\netcoreapp3.1\AirportChallenge.AssemblyInfoInputs.cache
+C:\Users\Mario\Desktop\projects\Airport\Airport\obj\Debug\netcoreapp3.1\AirportChallenge.AssemblyInfo.cs
+C:\Users\Mario\Desktop\projects\Airport\Airport\obj\Debug\netcoreapp3.1\AirportChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\projects\Airport\Airport\obj\Debug\netcoreapp3.1\AirportChallenge.dll
+C:\Users\Mario\Desktop\projects\Airport\Airport\obj\Debug\netcoreapp3.1\AirportChallenge.pdb
+C:\Users\Mario\Desktop\projects\Airport\Airport\obj\Debug\netcoreapp3.1\AirportChallenge.genruntimeconfig.cache
